@@ -1,3 +1,5 @@
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
+
 # 🌐 Affiliate Product Showcase
 
 A simple and responsive affiliate website with a backend admin dashboard. Built with HTML, CSS, JavaScript, and PHP. It allows you to display affiliate products and manage them through a secure login-protected admin panel.
