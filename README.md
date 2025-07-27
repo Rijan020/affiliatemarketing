@@ -22,7 +22,7 @@ your-website/
 │       └── script.js
 ├── includes/
 │   ├── db.php           
-│   └── fetch\_products.php
+│   └── fetch_products.php
 ├── index.html
 ├── products.html
 ├── about.html
