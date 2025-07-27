@@ -116,3 +116,7 @@ your-website/
 Created by [Rijan Dhakal](https://rijandhakal0.com.np)
 
 ```
+
+## 📄 License
+
+This project is licensed under the [MIT License](LICENSE).
